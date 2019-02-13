@@ -2,6 +2,7 @@
 #import <Cordova/CDVPlugin.h>
 #import <Cordova/CDVPluginResult.h>
 #import "CDVClipboard.h"
+#import <MobileCoreServices/MobileCoreServices.h>
 
 @implementation CDVClipboard
 
